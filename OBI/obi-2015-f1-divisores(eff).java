@@ -1,4 +1,4 @@
-//OBI 2015 Fase 1 - Método mais eficaz
+//OBI 2015 Fase 1 - Método eficaz
 //Uma forma eficiente para encontrar a quantidade de divisores de um número
 
 /**
@@ -37,7 +37,6 @@ public class solucao {
 		input.close();
 	}
 }
-
 /*
 * Na função solve(), os números são computados 2 vezes caso eles não sejam
 * quadrados perfeitos em relação ao número inserido, e 1 vez caso sejam. 
